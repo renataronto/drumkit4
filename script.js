@@ -55,7 +55,7 @@ function playKick() {
 }
 
 //openHat click
-btnOpenHat = document.getElementById("btnOpenHat");
+btnOpenHat = document.getElementById("btnOpenhat");
 
 btnOpenHat.addEventListener("click", playOpenHat);
 
