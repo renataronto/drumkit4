@@ -1,6 +1,6 @@
 //all keydown 
 window.addEventListener('keydown', onKeyDown);
-
+//keydown function
 function onKeyDown(event) {
     keyPressed = event.key;
     if (keyPressed == 'A' || keyPressed == 'a') 
